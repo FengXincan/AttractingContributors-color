@@ -28,7 +28,7 @@ I want contributors to help me list your favorite color.
 7. cyan
 8. black
 9. grey
-10. orange
+10. orange +1
 11. sky blue
 12. ivory
 13. gold
